@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is [SeuNome] and I'm a Game Developer @ Roblox, from Brazil 🇧🇷</h2>
+<h2 align="left">Hi 👋! My name is [SeuNome] and I'm a Game Developer @ Roblox, from Brazil! </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1401011436335009794/1402656601512611923/005646f7fa67fc93683ef1127b545f21.jpg?ex=6894b541&is=689363c1&hm=97ccc2e76d000e6112f28b616a9b1792c2c829174a59235686b840155f134b31&"  />
 
 ###
 
