@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/8c/47/9f/8c479f7f336c619da78e16dca5c6a623.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/d9/a7/a6/d9a7a61127f46c3675f620d3311a68ab.gif"  />
 
 ###
 
@@ -31,15 +31,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
